@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Pokedex",
   description:
-    "A simple pokedex that allows you to search for information on your favorite pokemon's!",
+    "A simple pokedex that allows you to search for information on your favorite pokemon!",
 };
 
 export default function RootLayout({
